@@ -12,3 +12,6 @@ http://blog.octo.com/en/design-a-rest-api/
 
 REST with jersey implementations
 http://www.codingpedia.org/ama/tutorial-rest-api-design-and-implementation-in-java-with-jersey-and-spring/#5_Exception_handling
+
+Rest Web app tutorial
+https://crunchify.com/how-to-build-restful-service-with-java-using-jax-rs-and-jersey/
