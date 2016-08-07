@@ -1,0 +1,14 @@
+1.  REST principles
+2. How to handle bulk request
+3. Authentication in REST
+4. How to design REST API - https://codeplanet.io/principles-good-restful-api-design/
+http://blog.octo.com/en/design-a-rest-api/
+5. REST framework
+6. How to to versioning in REST
+7. Status codes and there meaining
+8. Exception handling
+9. Filtering 
+10. Sorting
+
+REST with jersey implementations
+http://www.codingpedia.org/ama/tutorial-rest-api-design-and-implementation-in-java-with-jersey-and-spring/#5_Exception_handling
